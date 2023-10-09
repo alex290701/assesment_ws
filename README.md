@@ -20,6 +20,6 @@ roslaunch robot_description model_gazebo.launch
 ```
 Add terminal
 ```
-rosrun robot_description camera_read.py
+rosrun robot_description camera_live.py
 ```
 The robot can be controlled using the rqt steering.
